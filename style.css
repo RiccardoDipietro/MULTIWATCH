@@ -1,0 +1,33 @@
+.orologio{
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.ore{
+    width: 50%;
+    height: 80%;
+    border-right: 1px solid black;
+}
+
+.minuti{
+    width: 50%;
+    height: 80%;
+}
+
+.cella{
+    /* width: 50%; */
+    width: 100px;
+    height: 80%;
+    border: none;
+    font-size: 50px;
+}
+
+.cella:focus{
+    border: none;
+}
+
+button{
+    width: 130px;
+}
